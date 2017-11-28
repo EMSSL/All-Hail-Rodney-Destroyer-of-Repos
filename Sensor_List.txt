@@ -1,0 +1,9 @@
+List of sensors added to the database:
+
+-------------------------------------------
+ADXL335 
+-------------------------------------------
+Analog 3 axis accelerometer
++/- 3G readings on each axis
+Arduino calibration code and reading code
+Added by C. D. Yoder on 11/28/17 

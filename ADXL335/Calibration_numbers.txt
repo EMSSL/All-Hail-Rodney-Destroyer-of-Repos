@@ -12,3 +12,6 @@ Performed with ADXL335 in EMSSL on 11/27/17 by Christopher D. Yoder using
 the box method and exciting 1G in each direction.
 Raw Ranges: X: 396-617, Y: 396-633, Z: 401-664
 512, 506, 636 :: 0.05G, -0.07G, 0.79G
+
+Taken from:
+https://learn.adafruit.com/adafruit-analog-accelerometer-breakouts/programming

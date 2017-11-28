@@ -1,0 +1,14 @@
+weird values
+
+Raw Ranges: X: 512-1023, Y: 512-1023, Z: 512-1023
+1023, 1023, 1023 :: 1.00G, 1.00G, 1.00G
+
+add aref
+Raw Ranges: X: 432-638, Y: 401-623, Z: 408-614
+638, 499, 506 :: 1.00G, -0.12G, -0.05G
+
+
+Performed with ADXL335 in EMSSL on 11/27/17 by Christopher D. Yoder using 
+the box method and exciting 1G in each direction.
+Raw Ranges: X: 396-617, Y: 396-633, Z: 401-664
+512, 506, 636 :: 0.05G, -0.07G, 0.79G

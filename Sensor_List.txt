@@ -7,3 +7,10 @@ Analog 3 axis accelerometer
 +/- 3G readings on each axis
 Arduino calibration code and reading code
 Added by C. D. Yoder on 11/28/17 
+
+-------------------------------------------
+BMP183
+-------------------------------------------
+SPI Pressure / Temperature sensors
+Arduino code and libraries
+Added by C. D. Yoder on 12/1/17
